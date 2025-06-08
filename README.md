@@ -1,6 +1,7 @@
 # Klua
 Klua는 한국어로 lua어를 코딩할 수 있게 만든 응용 프로그램 입니다.
 # 사용법
+구글드라이브에서 다운로드 받습니다.(https://drive.google.com/drive/folders/1K33PmscGUwRlm5JpeIclz2QNxwvZ9eAg?usp=sharing)
 먼저 lua설치파일에 있는 루아를 설치 한 후 klua\dist\klua.exe 파일을 실행시켜 주세요(최초 실행은 관리자권환을 권장합니다.).
 ## 라이선스
 
